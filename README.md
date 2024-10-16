@@ -1,6 +1,7 @@
 # PwC Switzerland - HR Analysis 
 
-<img src= width="1000" height="300">
+<p align="center">
+<img src="PWC THUMBNAIL 3(1).png" width="800" height="300">
 
 ## PROJECT OVERVIEW
 This project is an HR, Key Performance, Promotion, and Turnover Analytics report focused on evaluating various aspects of employee demographics, performance, promotions, and turnover within the organization. The analysis aims to provide insights into workforce composition, performance trends, and factors influencing employee promotions and turnover.
