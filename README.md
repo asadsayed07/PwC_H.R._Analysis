@@ -15,15 +15,22 @@ The HR Analysis section covers the following metrics:
 - **Employee Status**: Classification of employees as leavers or still working.
 - **Executive Level Employees**: Distribution of executive-level employees by gender for the years 2020 and 2021.
 
-## KEY PERFORMANCE ANALYSIS
+![image](https://github.com/user-attachments/assets/c18cdad5-0e11-4cfd-924a-f8aaffd2bd74)
+
+
+## KEY PERFORMANCE & HIRINGS ANALYSIS
 The Key Performance Analysis section includes:
 - **Performance Ratings**: Key performance ratings segmented by gender.
 - **Hiring Data**: Number of men and women hired, along with the number of women hired at different designations.
+
+![image](https://github.com/user-attachments/assets/0f5cf939-bc35-4a1d-8ac1-6ce0ef12b348)
 
 ## PROMOTION AND TURNOVER ANALYSIS
 The Promotion and Turnover Analysis section encompasses:
 - **Promotions**: Analysis of promotions by age group, gender, and designation.
 - **Performance Comparison**: Performance metrics for leavers vs. non-leavers, segmented by gender.
+
+![image](https://github.com/user-attachments/assets/034f9530-42ca-4022-be6e-6318dc59469a)
 
 ## ANALYSIS METHODOLOGY
 The analysis was conducted to identify patterns and trends across different aspects of the workforce. This involved:
@@ -39,7 +46,7 @@ The analysis provided several key insights into the workforce dynamics:
   - **Employee Status**: Understanding the distribution of leavers and current employees highlighted areas needing attention for improving employee retention.
   - **Executive Level Representation**: The gender distribution at the executive level for 2020 and 2021 provided insights into the progress and challenges in achieving gender diversity in leadership roles.
 
-- ## KEY PERFORMANCE ANALYSIS INSIGHTS:
+- ## KEY PERFORMANCE AND HIRINGS ANALYSIS INSIGHTS:
   - **Performance Ratings**: The key performance ratings by gender indicated potential disparities that could be addressed through targeted development programs.
   - **Hiring Trends**: The data on hiring practices, particularly the number of women hired at different designations, provided a basis for evaluating gender diversity efforts.
 
